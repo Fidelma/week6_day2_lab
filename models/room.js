@@ -7,4 +7,5 @@ Room.prototype.paint = function (area) {
   this.paintedArea += area;
 };
 
+
 module.exports = Room;
